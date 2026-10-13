@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="linelLab.vcxproj" Id="96bbf5f6-f427-4732-94ac-294fc89191f0" />
+</Solution>
